@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <string name="tagline">Cari Tempat Makan Lebih Mudah</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About Me</string>
+    <string name="email">zfajart@gmail.com</string>
+    <string name="namaku">Fajar Nur Rohman</string>
+
+    <string-array name="nama_makanan">
+        <item>Waroeng Steak and Shake</item>
+        <item>Waroeng Upnnormal Coffe</item>
+        <item>Waroeng Mee</item>
+        <item>Lucky Cat coffee and kitchen</item>
+        <item>Anomali Coffee</item>
+        <item>Cafe Strawberry</item>
+        <item>Crematology</item>
+        <item>Filosofi Kopi Melawai</item>
+        <item>Warung Enon</item>
+        <item>Society Coffee House</item>
+    </string-array>
+
+    <string-array name="deskripsi_makanan">
+        <item>Pada awalnya, usaha ini didirikan di teras rumah kontrakan oleh Jody Brotosuseno (@JodyWaroeng) dan istrinya Siti Hariyani (@Anieksiti) di Jalan Cenderawasih no. 30 Yogyakarta. Usaha ini tidak terlepas dari pengaruh ayah Jody. Sebelum mempunyai usaha sendiri, mereka berdua telah aktif membantu usaha ayah Jody yang memang telah lebih dulu berkecimpung di dunia bisnis restoran steak bernama Obonk Steak. Obonk Steak memang sudah cukup lama berdiri di Yogyakarta dan sasaran konsumen restoran ini adalah kelas menengah ke atas. Dari sinilah, Aniek (nama panggilan Siti Haryani) dan Jody mempunyai ide untuk membuka tempat makan steak yang dapat menyentuh lapisan menengah ke bawah.
+            Mereka kemudian memilih nama Waroeng sebagai nama tempat yang mereka dirikan bukan restoran atau kafe yang nampak mewah. Hal ini dimaksudkan agar dapat menarik minat mahasiswa. Mereka juga tak segan memasang daftar harga di depan Waroeng agar calon pembeli dapat mengetahui harga menu mereka yang murah. Uniknya, Waroeng Steak Shake menyediakan nasi untuk dimakan dengan steak (bukan kentang, kacang panjang, wortel, atau jenis makanan lain yang biasa dimakan bersama steak. Sampai saati ini outlet Waroeng Steak and Shake berkembang menjadi 80an outlet di seluruh Indonesia dari Medan sampai Makassar.</item>
+        <item>Kalau makan Indomie terkesan gak gaul dan keren, tapi di #UPNORMAL beda ceritanya. Di sini kamu bisa makan Indomie (Everyone knows our favorite food of all time kan Indomie yha...) dan makin terlihat ketje dan gaul, sambil nongki-nongki happy!
+            Selain Indomie dengan cita rasa yang BERAGAM dan KWEREND (mulai dari keju sampai kikil, manis sampai pedazzz) kalian juga bisa nikmatin Roti Bakar, Nasi Wagyu, Pisang Bakar, Alpukat Kerok, Dessert-dessert lucu, Susu dan Kopi yang nikmat di mulut dan ramah di kantong!
+            Paling penting, di #UPNORMAL kamu bisa habiskan waktu berharga bareng sahabat, pacar, partner bisnis (buat ngomongin mimpi-mimpi kamu di masa depan) sambil main UNO, denger playlist heitzz masa kinih, main ular tangga, atau sekedar wifi-an buat main mobile games bareng. </item>
+        <item>Tempat hangout dengan dekor yg unik dan trendi menyajikan berbagai menu mie, roti bakar dan jajanan. Menyajikan beragam olahan mie dengan beragam topping yang menggugah selera, Waroeng Mee mengusung tagline "Semacam Tempat nongkrong". Pesanan saya kala itu adalah Mie Goreng Sosis Lada Hitam. Agar semakin "wah", menu ini juga dilengkapi dengan telur ceplok.</item>
+        <item>Lokasinya berada di belakang Plaza Festival. Datang sekitar jam 5 sore, suasananya cukup ramai, gak berisik karena banyak yg nge-laptop.
+Ambience super comfy, terdiri dari 2 lantai, interiornya kece buat ootd gitu, perfect place buat relax sambil ngobrol atau bisa juga ngerjain tugas apalagi bukanya 24/7 booo. Aku pesan dessertnya yang lava cake with ice creamnya, rasanya yaa kayak chocolate cake biasa, ngga bikin yang nagih banget gitu. Temanku pesan breakfast set dan aku cobain mashed potatonya. Lumayan sih a little bit creamy, tapi sosisnya pun ukurannya sedang, kukira agak lebih besar pesen latte nya pun menurutku kurang strong, masih banyak tempat yang menyediakan latte yang better hehe.</item>
+        <item>Kalau ditanya tenpat ngopi favorit gue di senopati, jawabannya adalah anomali. Anomali ini sudah cukup populer banget di Jakarta, cabangnya aja ada 9. Nahh kali ini gue mampir ke anomali untuk ngerjain kerjaan kantor di sini sekalian sambil ngopi.
+            Anomali yang ada di senopati tempatnya luas banget, tetapi lumayan bingungin layoutnya. Tempatnya terdiri dari 3 lantai, dan terpisah menjadi 2 area yaitu smoking dan non smoking. Di sini fasilitasnya cukup lengkap, ada area parkir, stop kontak, wifi, toilet dan mushola.
+            Secara kapasitas tempat ini bisa menampung sekitar 200 customer. Karena kafe ini sudah populer, gue gak perlu jelasin menunya. Cukup ngereview menu yang gue pesen. Secara kafe ini sudah ada 9 cabang, so pasti foodie sudah tau gambaran tentang menu kafe ini.</item>
+        <item>Late-night cafe dishing up comfort eats, sandwiches and a wide range of desserts in colorful digs. waktu itu aku kesini karena sekalian gathering sama temen game aku khusus di daerah Jakarta. udah reservasi juga kalo gasalah untuk 10 orang. untuk rasa makanannya mah biasa banget malah sayang banget kalo kalian yang laper trus pengen ngenyangin perut disini? emmm salah banget. karna namanya juga konsep cafe, jadi ya lebih asik buat ngobrol ketimbang makan. tapi minumannya bener-bener unik mulai dari menunya, namanya, hingga penyajiannya.
+            selain itu juga kita ditawarin untuk menggunakan permainannya dan dijelasin juga cara mainnya, jadi gak ngebosenin deh pokoknya. jenis permainannya juga banyak dan kekinian yang sering di gunakan oleh youtuber-youtuber ternama. karena permainannya lengkap jadi setiap makan dan minumnya di beri tax dan service yang cukup besar juga. </item>
+        <item>Tempat hangout dengan dekor yg modern klasik menciptakan suasana nyaman, tersedia outdoor seating. Coffee shop ini terletak di seberang Lume restaurant and tersedia indoor ataupun outdoor.
+Tempatnya sendiri cukup cozy buat nongkrong lama dan suasana nya nyaman buat ngobrol. Sound system untuk musiknya juga cukup bagus dan dekorasi coffee shop nya pun ok.
+Sistem pemesanan disini mirip di S*arbucks dimana kita mesen langsung di kasir. Bedanya, pesanan kita bakal di antar ke meja.
+</item>
+        <item>Tempat yg menyediakan aneka kopi, dan minuman non kopi,snack,dan juga toko baju, dompet dan lainnya. kali ini gua cobain green teanya di sini terus di extra espressonya. gilss enak bangett gua suka banget rasanya bener2 pas banget dan enak. gw juga suka tempatnya cozy banget tapi belum ada wifi di sini :( cuma untuk minumannya best banget sih ini wajjb cobainn dehhh. banyak banget varian kopi sesuai selera di sini</item>
+        <item>Classic Indonesian comfort fare and creative desserts served in this rustic-chic cafe with a patio. Haiii gue ke Warung Enon lagi setelah sekian lama udh jarang nongkrong disini hehehe. Pesenan kali ini membuat seakan-akan Warung Enon rasa warkop wkwkwk soalnya kami pesen rotbak coklat, pancong cubit, martabak mie, cireng dan indomie rebus telor~ Sebenernya kami jg mau pesen ketan susu, kebab, dan ayam geprek tp lagi pada habis:(
+Dari ke-5 menu yg kita pesen itu, yg juara itu Cireng!! Why? Soalnya bumbunya enak bgt, itu kayak saus asam manis gitu yg dikasih bawang putih yg dipotong dadu kecil. </item>
+        <item>Tempat nongkrong yg nyaman dan santai sambil menikmati kopi premium berkualitas dan aneka snack. Kafe ini terbilang salah satu yang paling “gaul” di sini, karena interiornya sudah mirip-mirip dengan kedai kopi yang ada di Jakarta atau kota besar lainnya.
+        selain itu, rasa kopi dan koneksi internetnya pun sesuai dengan ekspektasi. Untuk rasa kopi, mungkin juga karena pemilik/barista yang ada di sini sudah memiliki beberapa sertifikasi.</item>
+    </string-array>
+
+    <string-array name="photo_makanan">
+        <item>https://www.waroengsteakandshake.com/img/img_promo/slider_2.jpg</item>
+        <item>https://mmc.tirto.id/image/2018/09/05/warunk-upnormal--2--istimewa.jpg</item>
+        <item>https://i0.wp.com/www.adelinatampubolon.com/wp-content/uploads/2016/01/waroeng-mee-18.jpg</item>
+        <item>https://4.bp.blogspot.com/-CpiF8nDHS_s/V5nqzHhpI_I/AAAAAAABPNs/6GItECaLw74rLpeRn0tDtxzW3cq3EksaACEw/s1600/LUCKY%2BCAT%2BCOFFEE%2BKITCHEN-4.jpg</item>
+        <item>https://assets-pergikuliner.com/3wTgJeClUdtp6fYlpGpQNzvjiXY=/fit-in/758x598/smart/https://assets-pergikuliner.com/uploads/image/picture/531526/picture-1492257213.jpg</item>
+        <item>https://assets-pergikuliner.com/3PglxEMwWmtsKMijeqAclMf7mjE=/385x290/smart/https://assets-pergikuliner.com/uploads/image/picture/1231210/picture-1548153231.JPG</item>
+        <item>https://img.indoclubbing.com/files/Contents/1219/855452549976564900431869992585.jpg</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/0f/c9/94/12/img-20170701-142920-01.jpg</item>
+        <item>https://daileatcious.files.wordpress.com/2015/11/2015-11-14-08-03-47-11.jpg</item>
+        <item>https://d1nabgopwop1kh.cloudfront.net/v2/culinary-asset/4sh5mfy8I10NcCF4I8BR4vVv8wHkiioH1cHvruzN5QpRiGPt0N1m64ADRtwxS9wHLB3UujU/nindZPSsq0kg1Y3nv0Mk4XbCttv7IfT20IqBWT6VPxUI7sWkIwTVP61xwOonl58Fy1rEYn7dTKtYkQ==</item>
+    </string-array>
+
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+</resources>
